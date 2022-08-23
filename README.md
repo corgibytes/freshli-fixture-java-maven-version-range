@@ -1,0 +1,1 @@
+# freshli-fixture-java-maven-version-range
